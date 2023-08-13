@@ -1,0 +1,141 @@
+// © program for Merge Sort
+#include <stdio.h>
+#include <stdlib.h>
+
+// Merges two subarrays of arr[].
+
+// First subarray is arr[1..m]
+
+r]
+
+void merge(int arr[], int 1, int m, int r)
+
+4
+
+// Second subarray is arr[m+1.
+
+int i, 3, k;
+int nl =m-1+1;
+int n2
+
+rm;
+
+// Create temp arrays
+int L[n1], R[n2];
+
+// Copy data to temp arrays L[] and R[]
+for (i = Q; i < nl; ist)
+
+L[i] = arr[1 + i]5
+for (j = 0; j < n2; j++)
+
+R[j] = arr[m + 1+ 5];
+
+// Merge the temp arrays back into arr[1.
+
+i= 0;
+1385
+k=
+while (i < nl && j < n2) {
+if (LEG) <= REG]) {
+are[k] = L[i];
+its;
+t
+else {
+arr[k] = REG]3
+Ses
+
+// © program for Merge Sort
+#include <stdio.h>
+#include <stdlib.h>
+
+// Merges two subarrays of arr[].
+
+// First subarray is arr[1..m]
+
+r]
+
+void merge(int arr[], int 1, int m, int r)
+
+4
+
+// Second subarray is arr[m+1.
+
+int i, 3, k;
+int nl =m-1+1;
+int n2
+
+rm;
+
+// Create temp arrays
+int L[n1], R[n2];
+
+// Copy data to temp arrays L[] and R[]
+for (i = Q; i < nl; ist)
+
+L[i] = arr[1 + i]5
+for (j = 0; j < n2; j++)
+
+R[j] = arr[m + 1+ 5];
+
+// Merge the temp arrays back into arr[1.
+
+i= 0;
+1385
+k=
+while (i < nl && j < n2) {
+if (LEG) <= REG]) {
+are[k] = L[i];
+its;
+t
+else {
+arr[k] = REG]3
+Ses
+
+// © program for Merge Sort
+#include <stdio.h>
+#include <stdlib.h>
+
+// Merges two subarrays of arr[].
+
+// First subarray is arr[1..m]
+
+r]
+
+void merge(int arr[], int 1, int m, int r)
+
+4
+
+// Second subarray is arr[m+1.
+
+int i, 3, k;
+int nl =m-1+1;
+int n2
+
+rm;
+
+// Create temp arrays
+int L[n1], R[n2];
+
+// Copy data to temp arrays L[] and R[]
+for (i = Q; i < nl; ist)
+
+L[i] = arr[1 + i]5
+for (j = 0; j < n2; j++)
+
+R[j] = arr[m + 1+ 5];
+
+// Merge the temp arrays back into arr[1.
+
+i= 0;
+1385
+k=
+while (i < nl && j < n2) {
+if (LEG) <= REG]) {
+are[k] = L[i];
+its;
+t
+else {
+arr[k] = REG]3
+Ses
+
